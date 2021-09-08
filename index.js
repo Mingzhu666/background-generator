@@ -6,7 +6,6 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
     <App />,
-    COOL
     This is the background.
   document.getElementById('root')
 );
